@@ -1,0 +1,8 @@
+{
+  ".platform-darwin .tree-view": {
+    "cmd-z": "tranquil-drag-drop:undo"
+  },
+  ".platform-win32 .tree-view, .platform-linux .tree-view": {
+    "ctrl-z": "tranquil-drag-drop:undo"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "context-menu": {
+    ".tree-view": [
+      {
+        "label": "Undo Last Drag & Drop",
+        "command": "tranquil-drag-drop:undo"
+      },
+      { "type": "separator" }
+    ]
+  }
+}
