@@ -1,7 +1,7 @@
 {
   "name": "tranquil-drag-drop",
   "main": "./lib/tranquil-drag-drop",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Drag editor and browser tabs onto the tree-view to save them, with undo for tree-view file operations.",
   "repository": "https://github.com/tranquillabs/tranquil-drag-drop",
   "author": { "name": "Tranquil Labs", "url": "https://github.com/tranquillabs" },
