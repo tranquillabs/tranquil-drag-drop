@@ -7,7 +7,7 @@
 ## What it does
 
 - Drag any editor or browser tab onto the Project Pane to save it — browser tabs become collision-safe `.url` files.
-- Adds undo for tree-view file operations (rename, delete, move).
+- Adds undo for tree-view file operations (rename, move).
 - Hold ⌥/⌘ while dragging to copy instead of move.
 
 ## License
